@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 0c5c6cdcca07702478a3f07345102ec2
+timeCreated: 1456361808
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f0000001000000011000000120000001300000014000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1da3987fab88a7f12a88e965017d2194
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 2.7960136, y: 2.317858, z: 1.4243199}
+      lookAt: {x: -6.857173, y: 0.6351544, z: 23.92244}
+      up: {x: -0.027038015, y: 0.9976462, z: 0.06301593}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 3D City People - Female 03 - iClone Citizen Extras
+    100002: Component#1
+    100004: Component#35
+    100006: Component#36
+    100008: Component#37
+    100010: Cube.019#3
+    100012: Group 15
+    100014: Group 17
+    100016: middle hair for makehuman
+    100018: Object01
+    100020: skp19C3
+    100022: skpFA57#3
+    100024: //RootNode
+    400000: 3D City People - Female 03 - iClone Citizen Extras
+    400002: Component#1
+    400004: Component#35
+    400006: Component#36
+    400008: Component#37
+    400010: Cube.019#3
+    400012: Group 15
+    400014: Group 17
+    400016: middle hair for makehuman
+    400018: Object01
+    400020: skp19C3
+    400022: skpFA57#3
+    400024: //RootNode
+    2300000: Component#1
+    2300002: Component#35
+    2300004: Component#36
+    2300006: Component#37
+    2300008: Cube.019#3
+    2300010: Group 15
+    2300012: Group 17
+    2300014: Object01
+    3300000: Component#1
+    3300002: Component#35
+    3300004: Component#36
+    3300006: Component#37
+    3300008: Cube.019#3
+    3300010: Group 15
+    3300012: Group 17
+    3300014: Object01
+    4300000: Mesh Object01
+    4300002: Mesh Component#1
+    4300004: Mesh Cube.019#3
+    4300006: Mesh Component#35
+    4300008: Mesh Component#36
+    4300010: Mesh Group 15
+    4300012: Mesh Component#37
+    6400000: Component#1
+    6400002: Component#35
+    6400004: Component#36
+    6400006: Component#37
+    6400008: Cube.019#3
+    6400010: Group 15
+    6400012: Group 17
+    6400014: Object01
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
